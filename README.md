@@ -86,7 +86,7 @@ With the help of Pandas knowledge and the Scikit-Learn’s StandardScaler(), we 
 </p>
 
 <p align="center">
-<img src="Imagess/AccuracyBefore.png" width="60%" height="60%">
+<img src="Images/AccuracyBefore.png" width="60%" height="60%">
 </p>
 
 <p align="center">
